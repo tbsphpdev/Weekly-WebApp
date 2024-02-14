@@ -1,1 +1,1 @@
-# weekly-webApp
+# Weekly-webApp
